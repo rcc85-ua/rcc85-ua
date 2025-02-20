@@ -55,6 +55,9 @@
 </div>
 
 ###
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eecc15ffefd4e5e809cb3fbbd6617046e804d9c6cb708bfadec6a8bfb63e2c30/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d666162726963696f72627926636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/eecc15ffefd4e5e809cb3fbbd6617046e804d9c6cb708bfadec6a8bfb63e2c30/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d666162726963696f72627926636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=fabriciorby&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;"></a>
+</div>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rayan-chelihi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
